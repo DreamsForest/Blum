@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AutoClikerBlum", "AutoClikerBlum.pyproj", "{50CA8325-CC41-43EE-B2FB-6C4E084DB922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50CA8325-CC41-43EE-B2FB-6C4E084DB922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CA8325-CC41-43EE-B2FB-6C4E084DB922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {388C0348-2B36-433C-92D2-D3344F10BE0F}
+	EndGlobalSection
+EndGlobal
